@@ -1,12 +1,9 @@
-#container {
-    width: 500px;
-    height: 300px;
-    margin: auto;
-    border: solid black 5px;
-    text-align: center;
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
-.p-style {
+.hover {
     cursor: pointer;
-    font-size: 20px;
-    margin: 0;
 }
